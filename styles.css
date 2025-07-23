@@ -1,0 +1,124 @@
+/* Global Style */
+body {
+  margin: 0;
+  font-family: 'Orbitron', sans-serif;
+  scroll-behavior: smooth;
+  background-color: #0e0e14;
+  color: #f0f0f0;
+}
+
+img {
+  margin-top: 20px;
+  height: 80px;
+}
+
+/* Navbar */
+#navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #10141c;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 18px 40px;
+  z-index: 1000;
+  transition: background-color 0.4s;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.7);
+}
+
+#navbar.scrolled {
+  background-color: #1a1f29;
+}
+
+.logo {
+  font-size: 1.6rem;
+  font-weight: 800;
+  color: #00f7ff;
+}
+
+#navbar ul {
+  display: flex;
+  list-style: none;
+  gap: 25px;
+}
+
+#navbar ul li a {
+  text-decoration: none;
+  color: #f0f0f0;
+  font-weight: 700;
+  font-size: 1rem;
+  transition: color 0.3s, transform 0.3s;
+}
+
+#navbar ul li a:hover {
+  color: #00f7ff;
+  transform: scale(1.1);
+}
+
+/* Sections */
+.section {
+  min-height: 100vh;
+  padding: 130px 40px 80px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.8rem;
+  margin-bottom: 20px;
+  font-weight: 800;
+}
+
+p {
+  font-size: 1.2rem;
+  color: #d0d0d0;
+  margin-top: 10px;
+}
+
+.highlight {
+  color: #00f7ff;
+}
+
+/* Colored Backgrounds */
+.home-section {
+  background: linear-gradient(to right, #001f3f, #003366);
+}
+
+.team-section {
+  background: linear-gradient(to right, #142d13, #1e4d2b);
+}
+
+.products-section {
+  background: linear-gradient(to right, #29002e, #3a0057);
+}
+
+.contact-section {
+  background: linear-gradient(to right, #2c3e50, #34495e);
+}
+
+/* Grid Layout */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 30px;
+  margin-top: 30px;
+  padding: 0 10px;
+}
+
+.card {
+  background-color: rgba(255, 255, 255, 0.05);
+  border: 1px solid #444;
+  padding: 20px;
+  border-radius: 12px;
+  transition: transform 0.3s ease, box-shadow 0.3s;
+  color: #00f7ff;
+  font-weight: bold;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 15px rgba(0, 247, 255, 0.3);
+}
+
+
+
