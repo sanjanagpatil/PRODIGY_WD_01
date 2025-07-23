@@ -1,7 +1,7 @@
 🟥 [TECHSPARK – RESPONSIVE NAVBAR WEBSITE ]
 
 🔗 Live Website
-https://sanjanagpatil.github.io/PRODIGY_WD_01/ 
+https://github.com/sanjanagpatil/PRODIGY_WD_01
 
 📄 Project Description
 TechSpark is a stylish and responsive single-page website designed with HTML, CSS, and JavaScript. It features a fixed navigation bar, colorful section layouts, scroll-based effects, bold fonts, icons, and a hamburger menu for mobile view.
