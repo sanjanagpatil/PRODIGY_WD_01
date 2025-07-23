@@ -19,11 +19,12 @@ Right-click on index.html and select "Open with Live Server".
 Your website will open in the browser and be fully functional.
 
 📁 Project Files
-index.html – The main webpage structure.
 
-styles.css – Contains all the styling and design elements.
+1.index.html – The main webpage structure.
 
-script.js – JavaScript file for scroll animations and mobile menu toggle.
+2.styles.css – Contains all the styling and design elements.
+
+3.script.js – JavaScript file for scroll animations and mobile menu toggle.
 
 📱 Key Features
 
