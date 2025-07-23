@@ -39,3 +39,9 @@ script.js – JavaScript file for scroll animations and mobile menu toggle.
 
 Sections include: Home, Team, Products, Contact.
 
+✍️ Author
+
+Sanjana G Patil
+
+
+
