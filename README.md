@@ -26,15 +26,15 @@ script.js – JavaScript file for scroll animations and mobile menu toggle.
 
 📱 Key Features
 
-Fixed and bold navigation bar at the top.
+1.Fixed and bold navigation bar at the top.
 
-Responsive design for all devices.
+2.Responsive design for all devices.
 
-Hamburger menu appears on mobile screens.
+3.Hamburger menu appears on mobile screens.
 
-Bold fonts and clean layout for a modern look.
+4.Bold fonts and clean layout for a modern look.
 
-Tech-themed UI with section-specific colors and icons.
+5.Tech-themed UI with section-specific colors and icons.
 
 Sections include: Home, Team, Products, Contact.
 
