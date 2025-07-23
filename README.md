@@ -6,6 +6,7 @@ https://github.com/sanjanagpatil/PRODIGY_WD_01
 TechSpark is a stylish and responsive single-page website designed with HTML, CSS, and JavaScript. It features a fixed navigation bar, colorful section layouts, scroll-based effects, bold fonts, icons, and a hamburger menu for mobile view.
 
 💻 How to Run Locally
+
 1.Clone or download the repository to your computer.
 2.Open the project folder in Visual Studio Code.
 3.Make sure you have the Live Server extension installed.
